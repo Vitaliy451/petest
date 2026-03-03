@@ -5,7 +5,10 @@
       "description" : "Send notification to tenant admins when communication failures occur"
     },
     "enabled" : true,
-    "externalId" : null,
+    "externalId" : {
+      "entityType" : "NOTIFICATION_RULE",
+      "id" : "4797e370-1713-11f1-a23f-cf49b284c82d"
+    },
     "id" : {
       "entityType" : "NOTIFICATION_RULE",
       "id" : "4797e370-1713-11f1-a23f-cf49b284c82d"

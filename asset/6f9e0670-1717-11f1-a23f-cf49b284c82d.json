@@ -25,6 +25,7 @@
     "ownerId" : null,
     "type" : "default"
   },
+  "relations" : [ ],
   "attributes" : {
     "SERVER_SCOPE" : [ {
       "booleanValue" : null,
