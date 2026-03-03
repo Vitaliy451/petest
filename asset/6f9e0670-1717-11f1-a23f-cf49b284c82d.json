@@ -2,7 +2,7 @@
   "entityType" : "ASSET",
   "entity" : {
     "additionalInfo" : {
-      "description" : ""
+      "description" : "testDevtestDevtestDevtestDevtestDev"
     },
     "assetProfileId" : {
       "entityType" : "ASSET_PROFILE",
@@ -12,19 +12,29 @@
       "entityType" : "CUSTOMER",
       "id" : "13814000-1dd2-11b2-8080-808080808080"
     },
-    "externalId" : null,
+    "externalId" : {
+      "entityType" : "ASSET",
+      "id" : "6f9e0670-1717-11f1-a23f-cf49b284c82d"
+    },
     "id" : {
       "entityType" : "ASSET",
       "id" : "6f9e0670-1717-11f1-a23f-cf49b284c82d"
     },
-    "label" : null,
+    "label" : "testDev",
     "name" : "testAsset",
     "ownerId" : null,
     "type" : "default"
   },
-  "relations" : [ ],
   "attributes" : {
-    "SERVER_SCOPE" : [ ]
+    "SERVER_SCOPE" : [ {
+      "booleanValue" : null,
+      "doubleValue" : null,
+      "jsonValue" : null,
+      "key" : "tset",
+      "lastUpdateTs" : 1772552895939,
+      "longValue" : null,
+      "strValue" : "sedg"
+    } ]
   },
   "calculatedFields" : [ ]
 }
