@@ -2,9 +2,9 @@
   "entityType" : "DEVICE",
   "entity" : {
     "additionalInfo" : {
-      "gateway" : false,
+      "gateway" : true,
       "overwriteActivityTime" : false,
-      "description" : ""
+      "description" : "testDevtestDevtestDevtestDevtestDevtestDevtestDevtestDevtestDevtestDevtestDevtestDev"
     },
     "customerId" : {
       "entityType" : "CUSTOMER",
@@ -22,13 +22,16 @@
       "entityType" : "DEVICE_PROFILE",
       "id" : "478593f0-1713-11f1-a23f-cf49b284c82d"
     },
-    "externalId" : null,
+    "externalId" : {
+      "entityType" : "DEVICE",
+      "id" : "694e1e90-1717-11f1-a23f-cf49b284c82d"
+    },
     "firmwareId" : null,
     "id" : {
       "entityType" : "DEVICE",
       "id" : "694e1e90-1717-11f1-a23f-cf49b284c82d"
     },
-    "label" : "",
+    "label" : "testDev",
     "name" : "testDev",
     "ownerId" : null,
     "softwareId" : null,
@@ -39,14 +42,13 @@
     "credentialsType" : "ACCESS_TOKEN",
     "credentialsValue" : null
   },
-  "relations" : [ ],
   "attributes" : {
     "SERVER_SCOPE" : [ {
       "booleanValue" : false,
       "doubleValue" : null,
       "jsonValue" : null,
       "key" : "active",
-      "lastUpdateTs" : 1772552474426,
+      "lastUpdateTs" : 1772552852697,
       "longValue" : null,
       "strValue" : null
     } ],
